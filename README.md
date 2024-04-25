@@ -1,11 +1,17 @@
 <picture>
-![image](https://github.com/jonhy092/jonhy092/assets/166717441/6585adf5-cb7a-4c76-9f19-57429830605d)
-![image](https://github.com/jonhy092/jonhy092/assets/166717441/adb17db5-1cd8-4c59-b259-f1f89cfbd371)
-![image](https://github.com/jonhy092/jonhy092/assets/166717441/1d19a068-22e7-423c-8bbf-58d6a1841172)
+![image]()
+![image]()
+![image]()
 ![image](https://github.com/jonhy092/jonhy092/assets/166717441/2572d84c-ea28-4320-93bd-dd18b8290ba2)
 ![image](https://github.com/jonhy092/jonhy092/assets/166717441/86f2d152-af53-42d0-aa31-b50844352726)
 ![image](https://github.com/jonhy092/jonhy092/assets/166717441/d2c7c889-20ed-42e6-b567-6addc3ef2e1f)
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jonhy092/jonhy092/assets/166717441/6585adf5-cb7a-4c76-9f19-57429830605d.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/jonhy092/jonhy092/assets/166717441/adb17db5-1cd8-4c59-b259-f1f89cfbd371.png">
+  <img alt="logo" src="https://github.com/jonhy092/jonhy092/assets/166717441/1d19a068-22e7-423c-8bbf-58d6a1841172.png">
+</picture>
+
 ### Hola! Soy Jonatan 👋
 
 Desarrollador Frontend & Aprendiendo Backend
