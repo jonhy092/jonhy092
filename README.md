@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hola! Soy Jonatan 👋
 
-<!--
-**jonhy092/jonhy092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Frontend & Aprendiendo Backend
+¡Bienvenido a mi repositorio de GitHub! Soy un desarrollador frontend apasionado por crear interfaces de usuario atractivas y funcionales. Actualmente, estoy expandiendo mis habilidades para incluir el desarrollo backend utilizando tecnologías basadas en JavaScript.
 
-Here are some ideas to get you started:
+Tecnologías que domino:
+Frontend: HTML, CSS, JavaScript, Angular
+Backend (en proceso de aprendizaje): Node.js, Express, Nest.js
+¿Qué encontrarás aquí?
+Proyectos frontend donde he aplicado mis habilidades en diseño y desarrollo web.
+Experimentos y proyectos en los que estoy trabajando para mejorar mis habilidades en el desarrollo backend.
+¡Colaboración y contribuciones son siempre bienvenidas!
+Contacto
+¡Si estás interesado en colaborar en proyectos o simplemente quieres charlar sobre desarrollo web, no dudes en ponerte en contacto conmigo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: https://www.linkedin.com/in/jonatan-piccirilli/
+Correo electrónico: jonhy_092@hotmail.com
+
