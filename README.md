@@ -36,6 +36,6 @@ const jonhy = {
 Proyectos frontend donde he aplicado mis habilidades en diseño y desarrollo web.
 Experimentos y proyectos en los que estoy trabajando para mejorar mis habilidades en el desarrollo backend.
 ¡Colaboración y contribuciones son siempre bienvenidas!
-[LinkedIn]: https://www.linkedin.com/in/jonatan-piccirilli/
-[E-mail]: jonhy_092@hotmail.com
++ LinkedIn: https://www.linkedin.com/in/jonatan-piccirilli/
++ E-mail: jonhy_092@hotmail.com
 <!--- ----------------------------------------------------------------------------------------------------------------
