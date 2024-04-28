@@ -19,7 +19,7 @@
 </div>
 <br><br>    
 
-<!--- ----------------------------------------------------------------------------------------------------------------
+
 
 ### Hola! Soy Jonatan 👋 
 Desarrollador Frontend & Aprendiendo Backend
@@ -38,4 +38,4 @@ Experimentos y proyectos en los que estoy trabajando para mejorar mis habilidade
 ¡Colaboración y contribuciones son siempre bienvenidas!
 [LinkedIn]: https://www.linkedin.com/in/jonatan-piccirilli/
 [E-mail]: jonhy_092@hotmail.com
-
+<!--- ----------------------------------------------------------------------------------------------------------------
